@@ -44,18 +44,177 @@ The course will be graded as "pass" or "fail." A passing grade will be given to 
 Calendar
 --------
 
-| Week # | topics | key dates |
-| --- | --- | --- |
-| 1 | Introduction to Biomaterials | &nbsp; |
-| 2 | Vaccine Delivery from Biodegradable Microspheres | &nbsp; |
-| 3 | Advanced Techniques for Improving Vaccine Efficacy | &nbsp; |
-| 4 | State-of-the-art Cancer Vaccines (Part 1) | &nbsp; |
-| 5 | State-of-the-art Cancer Vaccines (Part 2) | Figures & tables distributed for Written Assignment |
-| 6 | Diagnostic Tools for Infectious Diseases | &nbsp; |
-| 7 | Islet Cell Encapsulation for Diabetes | Written Assignment due |
-| 8 | Visit to [Sigilon Therapeutics](http://sigilon.com/) | Field Trip |
-| 9 | Tissue-instructive Scaffolds | &nbsp; |
-| 10 | Diagnostic Tools for Cancer | Approval of papers selected for Final Assignment |
-| 11 | Low-cost, Paper-based Diagnostic Tools | &nbsp; |
-| 12 | Non-viral Delivery of Genetic Material for Gene Therapy and Cancer | &nbsp; |
-| 13 | Oral Presentations, Conclusion, and Closing Remarks | Final Assignment due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Biomaterials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Vaccine Delivery from Biodegradable Microspheres
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Techniques for Improving Vaccine Efficacy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+State-of-the-art Cancer Vaccines (Part 1)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+State-of-the-art Cancer Vaccines (Part 2)
+{{< tdclose >}}
+{{< tdopen >}}
+Figures & tables distributed for Written Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Diagnostic Tools for Infectious Diseases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Islet Cell Encapsulation for Diabetes
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to [Sigilon Therapeutics](http://sigilon.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Tissue-instructive Scaffolds
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Diagnostic Tools for Cancer
+{{< tdclose >}}
+{{< tdopen >}}
+Approval of papers selected for Final Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Low-cost, Paper-based Diagnostic Tools
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Non-viral Delivery of Genetic Material for Gene Therapy and Cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations, Conclusion, and Closing Remarks
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
